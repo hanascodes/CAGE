@@ -4,6 +4,7 @@ A simulation, a game that leads you into darkness.
 ------------------------------------------
 
 INSPIRATION
+
 You know how tech billionaires are viewed as gods among humans and claim that life itself is a simulation? Well, if life truly is a simulation, then that implies a Grand Creator. This thought led me to the very depths of my subconcious - if life is a simulation, then what am I? 
 
 An NPC (Non-playable Character)? Or am I a protagonist of my own simulation? Are the people in my life NPCs? In which ways can I interact with them?
