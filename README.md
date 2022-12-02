@@ -10,7 +10,7 @@ You know how tech billionaires are viewed as gods among humans and claim that li
 An NPC (Non-playable Character)? Or am I a protagonist of my own simulation? Are the people in my life NPCs? In which ways can I interact with them?
 Absolute madness.
 
-On a more technical side, it's inspired by old, terminal-based adventure games, as well as a modern indie game series, Hotline Miami 1 & 2. It's ruthlessness, the almost 0 checkpoints and "get killed instantly" features amazed me, but forced something out of me that I never knew existed - persistence. And don't even get me started on the soundtrack. Oh boy, oh boy - that soundtrack could turn an innocent man into a ruthless serial killer, which the game succeeds to do. But, it's just a game. A simulation.
+From a more technical standpoint, it's inspired by old, terminal-based adventure games, as well as a modern indie game series, Hotline Miami 1 & 2. It's ruthlessness, the almost 0 checkpoints and "get killed instantly" features amazed me, but forced something out of me that I never knew existed - persistence. And don't even get me started on the soundtrack. Oh boy, oh boy - that soundtrack could turn an innocent man into a ruthless serial killer, which the game succeeds to do. But, it's just a game. A simulation.
 
 ------------------------------------------
 
